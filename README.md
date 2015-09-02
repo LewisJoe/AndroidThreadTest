@@ -1,0 +1,2 @@
+# AndroidThreadTest
+android thread practice
